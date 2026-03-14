@@ -5,7 +5,10 @@ function App() {
   // 12:40
   /*
   differences:
-  class -> className; style=""
+  class -> className
+  inline styling
+    - HTML: style="propertyName: value"
+    - React: style={{propertyName: value}}
   */
 
   return (
